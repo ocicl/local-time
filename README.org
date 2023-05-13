@@ -1,0 +1,10 @@
+* local-time
+
+The LOCAL-TIME library is a Common Lisp library for manipulation of
+dates and times.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/dlowe-net/local-time.git |
+| commit  | 40169fe                                         |
+| systems | local-time                                      |
+|---------+-------------------------------------------------|
