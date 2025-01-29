@@ -5,6 +5,6 @@ dates and times.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/dlowe-net/local-time.git |
-| commit  | 44b7430                                         |
+| commit  | 224dc42                                         |
 | systems | local-time                                      |
 |---------+-------------------------------------------------|
